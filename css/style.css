@@ -41,7 +41,7 @@ header {
 }
 
 .logo::before {
-  content:  url(../img/Shape1.svg);
+  content:  url('../img/Shape1.svg');
   margin-top: 3px;
 }
 
@@ -92,7 +92,7 @@ header li a {
 /* head */
 
 .head {
-  background: url(../img/background.png);
+  background: url('../img/background.png');
   background-size: cover;
   background-position: center; 
   min-height: 90vh;
@@ -409,7 +409,7 @@ header li a {
 }
 
 .fourth-page-links div:first-child a:before {
-  content: url(../img/git.svg);
+  content: url('../img/git.svg');
 }
 
 .fourth-page-links div:nth-child(2) a {
@@ -417,7 +417,7 @@ header li a {
 }
 
 .fourth-page-links div:nth-child(2) a:before {
-  content: url(../img/bird.svg);
+  content: url('../img/bird.svg');
 }
 
 .fourth-page-links div:last-child a {
@@ -425,7 +425,7 @@ header li a {
 }
 
 .fourth-page-links div:last-child a:before {
-  content: url(../img/f.svg);
+  content: url('../img/f.svg');
 }
 
 .fourth-page-links div span{ 
@@ -441,7 +441,7 @@ header li a {
 #fifth-page {
   display: flex; 
   justify-content: center;
-  background-image: url(../img/fifth-page-background.png);
+  background-image: url('../img/fifth-page-background.png');
   background-size: 90% 100%;
   background-color: #4a3c4e;
   min-height: 100vh;
@@ -497,7 +497,7 @@ header li a {
 
 #sixth-page {
   background-color: #4a3c4e;
-  background-image: url(../img/sixth-page-background.png);
+  background-image: url('../img/sixth-page-background.png');
   background-size: cover;
 }
 
